@@ -29,7 +29,12 @@ export default function HeroSection() {
 
                     {/* --- SOCIAL ICONS --- */}
                     <div className="flex justify-center md:justify-start space-x-6 pt-4 text-gray-600">
-                        <a href="https://github.com/" target="_blank" rel="noreferrer" className="hover:text-pink-500 transition">
+                        <a
+                            href="https://github.com/rizqishq"
+                            target="_blank"
+                            rel="noreferrer"
+                            className="hover:text-pink-500 transition"
+                        >
                             <Github size={22} />
                         </a>
                         <a
@@ -40,7 +45,12 @@ export default function HeroSection() {
                         >
                             <Dribbble size={22} />
                         </a>
-                        <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer" className="hover:text-blue-600 transition">
+                        <a
+                            href="https://www.linkedin.com/in/rzqishq"
+                            target="_blank"
+                            rel="noreferrer"
+                            className="hover:text-blue-600 transition"
+                        >
                             <Linkedin size={22} />
                         </a>
                     </div>
