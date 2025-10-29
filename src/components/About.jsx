@@ -48,7 +48,7 @@ const AboutSection = () => {
 
                     {/* Tombol */}
                     <a
-                        href="#"
+                        href="#contact"
                         className="inline-flex items-center gap-2 bg-gradient-to-r from-purple-600 to-pink-500 text-white font-semibold px-5 py-3 rounded-lg shadow-md hover:opacity-90 transition"
                     >
                         <Send size={16} /> Let's Connect

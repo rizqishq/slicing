@@ -68,7 +68,9 @@ const Portfolio = () => {
                 {/* Tombol */}
                 <div className="text-center mt-12">
                     <a
-                        href="#"
+                        href="https://dribbble.com/"
+                        target="_blank"
+                        rel="noreferrer"
                         className="inline-flex items-center gap-2 bg-gradient-to-r from-purple-600 to-pink-500 text-white font-medium px-6 py-3 rounded-lg shadow-md hover:opacity-90 transition"
                     >
                         <ArrowRight size={16} />

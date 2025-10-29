@@ -49,28 +49,36 @@ const Contact = () => {
                     {/* Social Icons */}
                     <div className="flex items-center gap-5 mt-8">
                         <a
-                            href="#"
+                            href="https://instagram.com/"
+                            target="_blank"
+                            rel="noreferrer"
                             className="text-pink-500 hover:opacity-75 transition"
                             aria-label="Instagram"
                         >
                             <Instagram className="w-5 h-5" />
                         </a>
                         <a
-                            href="#"
+                            href="https://github.com/"
+                            target="_blank"
+                            rel="noreferrer"
                             className="text-gray-800 hover:opacity-75 transition"
                             aria-label="GitHub"
                         >
                             <Github className="w-5 h-5" />
                         </a>
                         <a
-                            href="#"
+                            href="https://dribbble.com/"
+                            target="_blank"
+                            rel="noreferrer"
                             className="text-purple-500 hover:opacity-75 transition"
                             aria-label="Dribbble"
                         >
                             <Dribbble className="w-5 h-5" />
                         </a>
                         <a
-                            href="#"
+                            href="https://www.linkedin.com/"
+                            target="_blank"
+                            rel="noreferrer"
                             className="text-blue-600 hover:opacity-75 transition"
                             aria-label="LinkedIn"
                         >
